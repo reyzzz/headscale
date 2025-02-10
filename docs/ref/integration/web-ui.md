@@ -15,5 +15,6 @@ Headscale doesn't provide a built-in web interface but users may pick one from t
 | Headplane       | [GitHub](https://github.com/tale/headplane)             | An advanced Tailscale inspired frontend for headscale                               |
 | headscale-admin | [Github](https://github.com/GoodiesHQ/headscale-admin)  | Headscale-Admin is meant to be a simple, modern web interface for headscale         |
 | ouroboros       | [Github](https://github.com/yellowsink/ouroboros)       | Ouroboros is designed for users to manage their own devices, rather than for admins |
+| QuasaScale      | [Github](https://github.com/reyzzz/quasaScale-frontend) | An andmistration project (mobile first) to manage multiple instances of headscale with advanced options like IP Address editing and a nice UI for the ACLs |
 
 You can ask for support on our [Discord server](https://discord.gg/c84AZQhmpx) in the "web-interfaces" channel.
